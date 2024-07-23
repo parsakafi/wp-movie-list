@@ -1,0 +1,10 @@
+{
+  "name": "movie-list",
+  "description": "Movie List",
+  "version": "1.0",
+  "homepage": "https://parsa.ws",
+  "author": "Parsa Kafi (https://parsa.ws)",
+  "scripts": {
+    "movie-list-sass": "sass --watch assets/scss/style.scss:assets/css/style.css --style compressed"
+  }
+}

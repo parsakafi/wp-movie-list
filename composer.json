@@ -1,0 +1,27 @@
+{
+  "name": "movie-list-pk/movie-list",
+  "description": "Movie List",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://parsa.ws",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Parsa Kafi",
+      "email": "parselearn@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "inc/"
+    ]
+  },
+  "config": {
+    "optimize-autoloader": true
+  },
+  "require": {
+  }
+}
