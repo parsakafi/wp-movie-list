@@ -19,7 +19,7 @@ With `Artist` or `Genre` taxonomy term ids:
 
 Change per page items, default is 6.
 
-```[movies per_page="10"]```
+```[movies per_page="9"]```
 
 ## Movie Archive
 
