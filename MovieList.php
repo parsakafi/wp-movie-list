@@ -41,3 +41,4 @@ class MovieList {
 }
 
 new MovieList();
+register_activation_hook( __FILE__, array( 'MovieList\Install', 'install' ) );

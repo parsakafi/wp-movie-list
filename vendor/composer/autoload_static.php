@@ -11,6 +11,7 @@ class ComposerStaticInit9ceca386b441630bb36b67f85a987f0e
         'MovieList\\Content' => __DIR__ . '/../..' . '/inc/Content.php',
         'MovieList\\Helper' => __DIR__ . '/../..' . '/inc/Helper.php',
         'MovieList\\Hooks' => __DIR__ . '/../..' . '/inc/Hooks.php',
+        'MovieList\\Install' => __DIR__ . '/../..' . '/inc/Install.php',
         'MovieList\\PostType' => __DIR__ . '/../..' . '/inc/PostType.php',
         'MovieList\\Taxonomy' => __DIR__ . '/../..' . '/inc/Taxonomy.php',
     );

@@ -10,6 +10,7 @@ return array(
     'MovieList\\Content' => $baseDir . '/inc/Content.php',
     'MovieList\\Helper' => $baseDir . '/inc/Helper.php',
     'MovieList\\Hooks' => $baseDir . '/inc/Hooks.php',
+    'MovieList\\Install' => $baseDir . '/inc/Install.php',
     'MovieList\\PostType' => $baseDir . '/inc/PostType.php',
     'MovieList\\Taxonomy' => $baseDir . '/inc/Taxonomy.php',
 );
